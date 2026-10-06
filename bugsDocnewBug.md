@@ -1,0 +1,1 @@
+# bugsDoc/newBug.md
